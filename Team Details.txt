@@ -1,0 +1,8 @@
+Team Name: NodeJs Rangers
+Project: QUIZ APP (General Knowledge Quiz - Coding)
+
+Team Member Names
+01. Rahul Ravindra Madeshiya (C0860488)
+02. Heet Bipinkumar Sadariya (C0856477)
+
+
